@@ -1,0 +1,3 @@
+[submodule "notification-k8s"]
+	path = notification-k8s
+	url = https://github.com/mkretz/notification-k8s
