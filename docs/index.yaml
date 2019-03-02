@@ -3,11 +3,11 @@ entries:
   notification-k8s:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-09T00:05:46.529373+01:00
+    created: 2019-03-03T00:49:15.407935+01:00
     description: A Helm chart for Kubernetes
-    digest: 363dce08e8ba991cad3d1bfe8441959638d7e0c71a42684fa43b7fefe4cc706f
+    digest: 685591af045ddf8d2a6814f5b42cacd309a0b0077d899dcdcbf541600e569dcd
     name: notification-k8s
     urls:
     - https://mkretz.github.com/helmcharts/notification-k8s-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-09T00:05:46.528854+01:00
+generated: 2019-03-03T00:49:15.407021+01:00
